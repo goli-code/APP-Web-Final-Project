@@ -96,5 +96,6 @@
  
 body{
     font-family: 'Nanum Myeongjo',sans-serif;
+    overflow-x: hidden;
 }
 
