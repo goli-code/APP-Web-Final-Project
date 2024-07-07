@@ -1,0 +1,96 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    
+ }
+ h1{
+    margin-left: 20px;
+  }
+ .nav a{
+    padding:30px 10px;
+    text-decoration: none;
+    color: #dda15e;
+    font-size: 20px;
+ }
+  .nav :hover{
+    color: #fefae0;
+    transition-duration: 0.7s;
+ }
+ body{
+    background-image: url(Restaurant.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+ }
+ h1{
+    font-size: 42px;
+    color: #fefae0;
+ }
+ .box-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    gap: 10px;
+ }
+ 
+ .box1{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box2{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box3{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box4{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box5{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box6{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box7{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box8{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box9{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .box10{
+    background-color: #fefae0;
+    padding: 20px;
+    display: flexbox;
+ }
+ .footer{
+    background-color: #dda15e;
+    color:hsl(48, 71%, 97%);
+    text-align: center;
+ }
+ 
+body{
+    font-family: 'Nanum Myeongjo',sans-serif;
+}
+

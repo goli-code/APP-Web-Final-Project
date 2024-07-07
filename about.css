@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    
+ }
+ .nav a{
+    padding:30px 10px;
+    text-decoration: none;
+    color: #dda15e;
+    font-size: 20px;
+ }
+  .nav :hover{
+    color: #fefae0;
+    transition-duration: 0.7s;
+ }
+ body{
+    background-image: url(pexels.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+ }
+ .footer{
+   background-color: #dda15e;
+   color:hsl(48, 71%, 97%);
+   text-align: center;
+}
+.footer p{
+   padding: 20px auto;
+}
+h3,h2,h1{
+    color: #fefae0;
+}
+p{
+    color: #fbc4ab;
+}
+body{
+    font-family: 'Nanum Myeongjo',sans-serif;
+}
